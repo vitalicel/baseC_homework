@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704826100 source:c:\users\vi\desktop\МФТИ\дом.задание\Базовый С\basec_homework\homework_5\homework_5.6\main.c
+	<stdio.h>
+	<locale.h>
+
