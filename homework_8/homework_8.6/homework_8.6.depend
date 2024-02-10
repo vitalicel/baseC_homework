@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707600861 source:c:\users\vi\desktop\мфти\дом.задание\базовый с\basec_homework\homework_8\homework_8.6\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
