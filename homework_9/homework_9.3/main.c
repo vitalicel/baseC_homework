@@ -38,13 +38,10 @@ void input(int size, int a[])
 int find_two_same(int size, int a[])
 {
     for (int i = 0; i < size; i++)
-    {
         for (int j = 0; j < size; j++)
-        {
             if ( (a[i] == a[j]) && (i != j))
                 return 1;
-        }
-    }
+
     return 0;
 }
 
