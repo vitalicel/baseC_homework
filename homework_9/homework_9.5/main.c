@@ -35,10 +35,8 @@ int find_max(int a, int b, int arr[a][b])
     int max = arr[a][0];
 
     for (int j = 0; j < b; j++)
-    {
         if ( arr[a][j] > max )
             max = arr[a][j];
-    }
 
     return max;
 }
